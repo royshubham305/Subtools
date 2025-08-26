@@ -31,9 +31,12 @@ No installation, no sign-up, fully free. 🚀
 - All processing happens in-browser — your files never leave your device.  
 
 ## 🛠 Tech Stack
-- **Frontend**: React + Tailwind CSS  
-- **Hosting**: Netlify  
 
+- **Frontend Framework**: [React](https://react.dev/)  
+- **Language**: [TypeScript](https://www.typescriptlang.org/)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+- **Build Tool**: [Vite](https://vitejs.dev/)  
+- **Hosting**: [Netlify](https://www.netlify.com/)  
 ---
 
 ### 📌 Roadmap
