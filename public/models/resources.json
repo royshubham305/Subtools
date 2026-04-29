@@ -1,0 +1,69 @@
+{
+  "/models/small": {
+    "chunks": [{ "name": "isnet_quint8.onnx", "offsets": [0, 44342436] }],
+    "size": 44342436,
+    "mime": "application/octet-stream"
+  },
+  "isnet_quint8": {
+    "chunks": [{ "name": "isnet_quint8.onnx", "offsets": [0, 44342436] }],
+    "size": 44342436,
+    "mime": "application/octet-stream"
+  },
+  "/models/isnet_quint8": {
+    "chunks": [{ "name": "isnet_quint8.onnx", "offsets": [0, 44342436] }],
+    "size": 44342436,
+    "mime": "application/octet-stream"
+  },
+  "/models/medium": {
+    "chunks": [{ "name": "isnet.onnx", "offsets": [0, 88188479] }],
+    "size": 88188479,
+    "mime": "application/octet-stream"
+  },
+  "isnet": {
+    "chunks": [{ "name": "isnet.onnx", "offsets": [0, 88188479] }],
+    "size": 88188479,
+    "mime": "application/octet-stream"
+  },
+  "/models/isnet": {
+    "chunks": [{ "name": "isnet.onnx", "offsets": [0, 88188479] }],
+    "size": 88188479,
+    "mime": "application/octet-stream"
+  },
+  "/onnxruntime-web/ort-wasm-simd.wasm": {
+    "chunks": [{ "name": "isnet.wasm", "offsets": [0, 10549605] }],
+    "size": 10549605
+  },
+  "/onnxruntime-web/ort-wasm.wasm": {
+    "chunks": [{ "name": "isnet.wasm", "offsets": [0, 10549605] }],
+    "size": 10549605
+  },
+  "/onnxruntime-web/ort-wasm-threaded.wasm": {
+    "chunks": [{ "name": "isnet.wasm", "offsets": [0, 10549605] }],
+    "size": 10549605
+  },
+  "/onnxruntime-web/ort-wasm-simd-threaded.wasm": {
+    "chunks": [{ "name": "onnxruntime-web/ort-wasm-simd-threaded.wasm", "offsets": [0, 12666427] }],
+    "size": 12666427,
+    "mime": "application/wasm"
+  },
+  "/onnxruntime-web/ort-wasm-simd-threaded.mjs": {
+    "chunks": [{ "name": "onnxruntime-web/ort-wasm-simd-threaded.mjs", "offsets": [0, 26583] }],
+    "size": 26583,
+    "mime": "text/javascript"
+  },
+  "/onnxruntime-web/ort-wasm-simd-threaded.jsep.wasm": {
+    "chunks": [{ "name": "onnxruntime-web/ort-wasm-simd-threaded.jsep.wasm", "offsets": [0, 23914392] }],
+    "size": 23914392,
+    "mime": "application/wasm"
+  },
+  "/onnxruntime-web/ort-wasm-simd-threaded.jsep.mjs": {
+    "chunks": [{ "name": "onnxruntime-web/ort-wasm-simd-threaded.jsep.mjs", "offsets": [0, 53602] }],
+    "size": 53602,
+    "mime": "text/javascript"
+  },
+  "/models/ort-wasm-simd.wasm": {
+    "chunks": [{ "name": "isnet.wasm", "offsets": [0, 10549605] }],
+    "size": 10549605,
+    "mime": "application/wasm"
+  }
+}
